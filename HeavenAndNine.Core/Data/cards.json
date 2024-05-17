@@ -1,0 +1,291 @@
+[
+    {
+      "id": 1,
+      "name": "Heaven",
+      "cname": "天",
+      "codeName": "A",
+      "tileType": "civil",
+      "rank": 1,
+      "icon": "./assets/civil/big-four/Domino-6+6.svg"
+    },
+  {
+    "id": 2,
+    "name": "Heaven",
+    "cname": "天",
+    "codeName": "A",
+    "tileType": "civil",
+    "rank": 1,
+    "icon": "./assets/civil/big-four/Domino-6+6.svg"
+  },
+  {
+    "id": 3,
+    "name": "Earth",
+    "cname": "地",
+    "codeName": "B",
+    "tileType": "civil",
+    "rank": 2,
+    "icon": "./assets/civil/big-four/Domino-1+1.svg"
+  },
+  {
+    "id": 4,
+    "name": "Earth",
+    "cname": "地",
+    "codeName": "B",
+    "tileType": "civil",
+    "rank": 2,
+    "icon": "./assets/civil/big-four/Domino-1+1.svg"
+  },
+  {
+    "id": 5,
+    "name": "People",
+    "cname": "人",
+    "codeName": "C",
+    "tileType": "civil",
+    "rank": 3,
+    "icon": "./assets/civil/big-four/Domino-4+4.svg"
+  },
+  {
+    "id": 6,
+    "name": "People",
+    "cname": "人",
+    "codeName": "C",
+    "tileType": "civil",
+    "rank": 3,
+    "icon": "./assets/civil/big-four/Domino-4+4.svg"
+  },
+  {
+    "id": 7,
+    "name": "Harmony",
+    "cname": "和",
+    "codeName": "D",
+    "tileType": "civil",
+    "rank": 4,
+    "icon": "./assets/civil/big-four/Domino-3+1.svg"
+  },
+  {
+    "id": 8,
+    "name": "Harmony",
+    "cname": "和",
+    "codeName": "D",
+    "tileType": "civil",
+    "rank": 4,
+    "icon": "./assets/civil/big-four/Domino-3+1.svg"
+  },
+  {
+    "id": 9,
+    "name": "Plum Flower",
+    "cname": "梅花",
+    "codeName": "E",
+    "tileType": "civil",
+    "rank": 5,
+    "icon": "./assets/civil/four-elements/Domino-5+5.svg"
+  },
+  {
+    "id": 10,
+    "name": "Plum Flower",
+    "cname": "梅花",
+    "codeName": "E",
+    "tileType": "civil",
+    "rank": 5,
+    "icon": "./assets/civil/four-elements/Domino-5+5.svg"
+  },
+  {
+    "id": 11,
+    "name": "Long Threes",
+    "cname": "長三",
+    "codeName": "F",
+    "tileType": "civil",
+    "rank": 6,
+    "icon": "./assets/civil/four-elements/Domino-3+3.svg"
+  },
+  {
+    "id": 12,
+    "name": "Long Threes",
+    "cname": "長三",
+    "codeName": "F",
+    "tileType": "civil",
+    "rank": 6,
+    "icon": "./assets/civil/four-elements/Domino-3+3.svg"
+  },
+  {
+    "id": 13,
+    "name": "Bench",
+    "cname": "板凳",
+    "codeName": "G",
+    "tileType": "civil",
+    "rank": 7,
+    "icon": "./assets/civil/four-elements/Domino-2+2.svg"
+  },
+  {
+    "id": 14,
+    "name": "Bench",
+    "cname": "板凳",
+    "codeName": "G",
+    "tileType": "civil",
+    "rank": 7,
+    "icon": "./assets/civil/four-elements/Domino-2+2.svg"
+  },
+  {
+    "id": 15,
+    "name": "Tiger's Head",
+    "cname": "斧頭",
+    "codeName": "H",
+    "tileType": "civil",
+    "rank": 8,
+    "icon": "./assets/civil/four-elements/Domino-5+6.svg"
+  },
+  {
+    "id": 16,
+    "name": "Tiger's Head",
+    "cname": "斧頭",
+    "codeName": "H",
+    "tileType": "civil",
+    "rank": 8,
+    "icon": "./assets/civil/four-elements/Domino-5+6.svg"
+  },
+  {
+    "id": 17,
+    "name": "Red Head Ten",
+    "cname": "紅頭十",
+    "codeName": "I",
+    "tileType": "civil",
+    "rank": 9,
+    "icon": "./assets/civil/misc-three/Domino-4+6.svg"
+  },
+  {
+    "id": 18,
+    "name": "Red Head Ten",
+    "cname": "紅頭十",
+    "codeName": "I",
+    "tileType": "civil",
+    "rank": 9,
+    "icon": "./assets/civil/misc-three/Domino-4+6.svg"
+  },
+  {
+    "id": 19,
+    "name": "Long Leg Seven",
+    "cname": "高腳七",
+    "codeName": "J",
+    "tileType": "civil",
+    "rank": 10,
+    "icon": "./assets/civil/misc-three/Domino-1+6.svg"
+  },
+  {
+    "id": 20,
+    "name": "Long Leg Seven",
+    "cname": "高腳七",
+    "codeName": "J",
+    "tileType": "civil",
+    "rank": 10,
+    "icon": "./assets/civil/misc-three/Domino-1+6.svg"
+  },
+  {
+    "id": 21,
+    "name": "Red Mallet Six",
+    "cname": "玲瓏六",
+    "codeName": "K",
+    "tileType": "civil",
+    "rank": 11,
+    "icon": "./assets/civil/misc-three/Domino-1+5.svg"
+  },
+  {
+    "id": 22,
+    "name": "Red Mallet Six",
+    "cname": "玲瓏六",
+    "codeName": "K",
+    "tileType": "civil",
+    "rank": 11,
+    "icon": "./assets/civil/misc-three/Domino-1+5.svg"
+  },
+  {
+    "id": 23,
+    "name": "Nine",
+    "cname": "九",
+    "codeName": "9",
+    "tileType": "military",
+    "rank": 1,
+    "icon": "./assets/military/Domino-3+6.svg"
+  },
+  {
+    "id": 24,
+    "name": "Nine",
+    "cname": "九",
+    "codeName": "9",
+    "tileType": "military",
+    "rank": 1,
+    "icon": "./assets/military/Domino-4+5.svg"
+  },
+  {
+    "id": 25,
+    "name": "Eight",
+    "cname": "八",
+    "codeName": "8",
+    "tileType": "military",
+    "rank": 2,
+    "icon": "./assets/military/Domino-3+5.svg"
+  },
+  {
+    "id": 26,
+    "name": "Eight",
+    "cname": "八",
+    "codeName": "8",
+    "tileType": "military",
+    "rank": 2,
+    "icon": "./assets/military/Domino-2+6.svg"
+  },
+  {
+    "id": 27,
+    "name": "Seven",
+    "cname": "七",
+    "codeName": "7",
+    "tileType": "military",
+    "rank": 3,
+    "icon": "./assets/military/Domino-2+5.svg"
+  },
+  {
+    "id": 28,
+    "name": "Seven",
+    "cname": "七",
+    "codeName": "7",
+    "tileType": "military",
+    "rank": 3,
+    "icon": "./assets/military/Domino-3+4.svg"
+  },
+  {
+    "id": 29,
+    "name": "Five",
+    "cname": "五",
+    "codeName": "5",
+    "tileType": "military",
+    "rank": 5,
+    "icon": "./assets/military/Domino-3+2.svg"
+  },
+  {
+    "id": 30,
+    "name": "Five",
+    "cname": "五",
+    "codeName": "5",
+    "tileType": "military",
+    "rank": 5,
+    "icon": "./assets/military/Domino-1+4.svg"
+  },
+  {
+    "id": 31,
+    "name": "Six",
+    "cname": "大頭六",
+    "codeName": "6",
+    "tileType": "military",
+    "rank": 4,
+    "icon": "./assets/military/Domino-2+4.svg"
+  },
+  {
+    "id": 32,
+    "name": "Final Three",
+    "cname": "三雞",
+    "codeName": "3",
+    "tileType": "military",
+    "rank": 5,
+    "icon": "./assets/military/Domino-1+2.svg"
+  }
+
+]

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeavenAndNine.Core", "HeavenAndNine.Core\HeavenAndNine.Core.csproj", "{11B8746A-9013-4007-AC2A-9D1BD3A14F6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeavenAndNine.TextMode", "HeavenAndNine.Text\HeavenAndNine.TextMode.csproj", "{71B00625-9DD6-42F9-8D7B-88371D173AA5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{11B8746A-9013-4007-AC2A-9D1BD3A14F6F} = {11B8746A-9013-4007-AC2A-9D1BD3A14F6F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B8746A-9013-4007-AC2A-9D1BD3A14F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B8746A-9013-4007-AC2A-9D1BD3A14F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B8746A-9013-4007-AC2A-9D1BD3A14F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B8746A-9013-4007-AC2A-9D1BD3A14F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B00625-9DD6-42F9-8D7B-88371D173AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B00625-9DD6-42F9-8D7B-88371D173AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B00625-9DD6-42F9-8D7B-88371D173AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B00625-9DD6-42F9-8D7B-88371D173AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C40F71D-0D73-40B2-BFE4-51C9093A05F8}
+	EndGlobalSection
+EndGlobal
